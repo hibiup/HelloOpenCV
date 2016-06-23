@@ -7,8 +7,8 @@
     <packaging>jar</packaging>
     
     <scm>
-        <connection>scm:git:https://github.com/hibiup/helloopencv.git</connection>
-        <developerConnection>scm:git:https://github.com/hibiup/helloopencv.git</developerConnection>
+        <connection>scm:git:https://github.com/hibiup/HelloOpenCV.git</connection>
+        <developerConnection>scm:git:https://github.com/hibiup/HelloOpenCV.git</developerConnection>
     </scm>
     
     <repositories>
